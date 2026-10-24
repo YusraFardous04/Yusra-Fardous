@@ -23,7 +23,8 @@ My biggest passion is sustainable tech: I believe technology should be built in 
   - Cybersecurity Data Sets
   - Embedded Systems Projects
 
-#Currently 
+# Currently 
+
 I'm specializing in building Ai Agents for my Graduation projects, I'm also aiming structure my path in this field 
 and improving my skills in everyway possible. 
 
